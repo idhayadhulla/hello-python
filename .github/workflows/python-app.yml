@@ -38,4 +38,4 @@ jobs:
         export PYTHONPATH=src
         pytest
         echo "Pytest completed"
-         echo "Pytest completed"
+         
